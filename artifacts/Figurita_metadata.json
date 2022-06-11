@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Figurita.sol": "Figurita"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Figurita.sol": {
+			"keccak256": "0x541c3838cba9b92810b2d6f9a9500f7a583ee9521c553e54a0e3f030a0dc4bcb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4fa99babfe9cc2ef3d940b90e0bdf9427e70f2bd2768fa131ad3d0ab5042632b",
+				"dweb:/ipfs/QmQWa2VVjFzPJPaNQDFGQ7m6CF73jS6PoVfRjKAs8GVLs5"
+			]
+		}
+	},
+	"version": 1
+}
